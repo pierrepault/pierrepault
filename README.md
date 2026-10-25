@@ -2,7 +2,7 @@
 
 I am looking for beta testers to try **Netsign** before its public release! 
 
-> 💡 **What is Netsign?** [Insert your one-sentence description of what the app does here, e.g., *Netsign is a secure, decentralized digital signature application designed for mobile devices.*]
+> 💡 **What is Netsign?** *Netsign lets you sign PDFs with a key locked in your phone's security hardware. It outputs PAdES PDF format signatures (the EU standard), trusted timestamps and evidence anyone can verify. Free for signers.*
 
 Your hands-on feedback will help catch edge-case bugs and polish the overall user experience. Testing is completely open for **Android**, **iOS/iPadOS**, or both.
 
