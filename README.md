@@ -1,4 +1,4 @@
-# 🚀 Help Test Netsign <img src="https://netsign.io/public/netsign.png" alt="Netsign app logo" width="40"/>
+# <img src="https://netsign.io/public/netsign.png" alt="Netsign app logo" width="40"/> Help Test Netsign 
 
 I am looking for beta testers to try **Netsign** before its public release! The website is already online @ [netsign.io](https://netsign.io)
 
