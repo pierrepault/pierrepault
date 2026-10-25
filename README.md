@@ -1,49 +1,66 @@
-# Help test Netsign
+# 🚀 Help Test Netsign
 
-I’m looking for a few people to try **Netsign** before its public release. It’s a [one-sentence description of what the app does], and your feedback will help me catch problems and make the experience better.
+I am looking for beta testers to try **Netsign** before its public release! 
 
-Testing is open for **Android**, **iPhone/iPad**, or both. You can join even if you have only one of those devices.
+> 💡 **What is Netsign?** [Insert your one-sentence description of what the app does here, e.g., *Netsign is a secure, decentralized digital signature application designed for mobile devices.*]
 
-## Join the test
+Your hands-on feedback will help catch edge-case bugs and polish the overall user experience. Testing is completely open for **Android**, **iOS/iPadOS**, or both.
 
-### Android
+---
 
-1. Use an Android device running **Android 12** or later.
-2. Join the group: **[https://groups.google.com/g/netsign-android-closed-testing](https://groups.google.com/g/netsign-android-closed-testing)**.
-3. Install the app from **[https://play.google.com/apps/testing/io.netsign.android](https://play.google.com/apps/testing/io.netsign.android)**.
+## 📲 How to Join the Test
 
-### iPhone or iPad
+### 🤖 Android Requirements & Steps
+1. **Device:** Must be running **Android 12** or later.
+2. **Join the Beta Group:** [Click here to join the Google Group](https://groups.google.com/g/netsign-android-closed-testing).
+3. **Download the App:** [Install via Google Play Closed Testing](https://play.google.com/apps/testing/io.netsign.android).
 
-1. Use an iPhone or iPad running **iOS 15** or later.
-2. Install **TestFlight** from the App Store if you don’t already have it.
-3. Join the test and install the app: **TestFlight public link coming soon**.
+### 🍏 iPhone & iPad Requirements & Steps
+1. **Device:** Must be running **iOS 15** or later.
+2. **Prerequisite:** Install [TestFlight](https://apple.com) from the App Store.
+3. **Download the App:** ⏳ *TestFlight public link coming soon!*
 
-## What to try
+---
 
-- Create an account, verify your email and your phone
-- Sign a dummy document I'll send you
-- Test the identity verification using an ID with embedded NFC chip.
+## 🛠️ Guided Test Checklist
+To give us the best insight, please try to complete these core actions during your testing period:
 
-Please try the app for about **15 days**. You’re welcome to stop at any time.
+- [ ] **Account Setup:** Create your profile and successfully verify both your email and phone number.
+- [ ] **Document Execution:** Open and sign the dummy document automatically sent to your account.
+- [ ] **Hardware Verification:** Test the secure identity verification flow using a physical ID containing an embedded NFC chip.
 
-## Send feedback
+⏱️ **Duration:** We would appreciate it if you could interact with the app occasionally over a **15-day period**. However, you are welcome to stop or opt-out at any time.
 
-Share bugs, confusing moments, and suggestions here: **[contact](https://netsign.io/contact)** or through google group **netsign-android-closed-testing@googlegroups.com**.
+---
 
-If reporting a problem, it helps to include:
+## 💬 Submitting Feedback
 
-- Your device model and Android/iOS version
-- What you were trying to do
-- What happened and what you expected instead
-- A screenshot or screen recording, if useful and safe to share
+Found a bug or have a feature suggestion? Share your thoughts through our **[Contact Form](https://netsign.io/contact)** or directly inside our community email pool at **netsign-android-closed-testing@googlegroups.com**.
 
-Please don’t post passwords, private keys, payment details, or other sensitive personal information. Use sample data while testing.
+### 📋 Bug Reporting Template
+When reporting an issue, copying and pasting this quick template helps us diagnose it faster:
 
-## A few details
-- **Personal data:** We strictly respect [GDPR](https://gdpr-info.eu) and your personal data—you do not have to provide some to test—will be deleted within 14 days at the latest after your delete your test account. 
-- **Test period:** open
-- **Who can join:** anyone with a physical android phone or iphone or ipad.
-- **Privacy information:** [privacy policy link or short explanation]
-- **Questions:** **[contact](https://netsign.io/contact)** or through google group **netsign-android-closed-testing@googlegroups.com**.
+```text
+- Device Model & OS Version: 
+- Intended Action: (What you were trying to do)
+- Observed Behavior: (What actually happened vs what you expected)
+- Attachments: (Link to a safe screenshot or screen recording, if applicable)
+```
 
-Thanks for helping test **Netsign**!
+⚠️ **Security Reminder:** Please never share passwords, private keys, live payment details, or real sensitive personal information. Stick entirely to sample data while testing.
+
+---
+
+## 🔍 Program Breakdown
+
+| Category | Details |
+| :--- | :--- |
+| 🛡️ **Personal Data** | Strictly compliant with [GDPR](https://gdpr-info.eu). No personal data is mandatory to test. All user information is permanently wiped within 14 days of deleting your test account. |
+| ⏳ **Test Period** | Currently Open |
+| 👥 **Eligibility** | Anyone with a physical Android phone, iPhone, or iPad meeting the minimum OS requirements. |
+| 📄 **Privacy Information** | [Insert privacy policy link or a short 1-sentence legal explanation]. |
+| ❓ **Support & Questions** | Reach out via our **[Contact Form](https://netsign.io/contact)** or drop a line to **netsign-android-closed-testing@googlegroups.com**. |
+
+***
+
+Thank you for dedicating your time and hardware to making **Netsign** better! 🙌🏼
