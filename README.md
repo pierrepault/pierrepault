@@ -1,6 +1,6 @@
 # 🚀 Help Test Netsign
 
-I am looking for beta testers to try **Netsign** before its public release! 
+I am looking for beta testers to try **Netsign** before its public release! The website is already online @ [netsign.io](https://netsign.io)
 
 > 💡 **What is Netsign?** *Netsign lets you sign PDFs with a key locked in your phone's security hardware. It outputs PAdES PDF format signatures (the EU standard), trusted timestamps and evidence anyone can verify. Free for signers.*
 
@@ -58,7 +58,7 @@ When reporting an issue, copying and pasting this quick template helps us diagno
 | 🛡️ **Personal Data** | Strictly compliant with [GDPR](https://gdpr-info.eu). No personal data is mandatory to test. All user information is permanently wiped within 14 days of deleting your test account. |
 | ⏳ **Test Period** | Currently Open |
 | 👥 **Eligibility** | Anyone with a physical Android phone, iPhone, or iPad meeting the minimum OS requirements. |
-| 📄 **Privacy Information** | [Insert privacy policy link or a short 1-sentence legal explanation]. |
+| 📄 **Privacy Information** | [privacy policy](https://netsign.io/legal/privacy). |
 | ❓ **Support & Questions** | Reach out via our **[Contact Form](https://netsign.io/contact)** or drop a line to **netsign-android-closed-testing@googlegroups.com**. |
 
 ***
