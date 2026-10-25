@@ -1,4 +1,4 @@
-# 🚀 Help Test Netsign
+# 🚀 **Help Test Netsign**
 
 I am looking for beta testers to try **Netsign** before its public release! 
 
