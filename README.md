@@ -1,10 +1,10 @@
-<style>
+<!--<style>
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: #f8f9fa; color: #212529; }
   h1, h2, h3 { color: #0d6efd; border-bottom: none !important; }
   table { width: 100%; border-collapse: collapse; margin-top: 20px; }
   th, td { border: 1px solid #dee2e6; padding: 12px; }
   th { background-color: #e9ecef; }
-</style>
+</style>-->
 
 # <img src="https://netsign.io/public/netsign.png" alt="Netsign app logo" width="40"/> Help Test Netsign 
 
