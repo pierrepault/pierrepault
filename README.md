@@ -2,7 +2,7 @@
 
 I am looking for beta testers to try **Netsign** before its public release! The website is already online @ [netsign.io](https://netsign.io)
 
-> 💡 **What is Netsign?** *Netsign lets you sign PDFs with a key locked in your phone's security hardware. It outputs PAdES PDF format signatures (the EU standard), trusted timestamps and evidence anyone can verify. Free for signers.*
+> 💡 **What is Netsign?** *Netsign lets you sign PDFs with a key locked in your phone's security hardware. It outputs PAdES PDF format signatures (the EU standard), trusted timestamps and evidence anyone can verify. Free for signers. Highly competitive pricing for Senders.*
 
 Your hands-on feedback will help catch edge-case bugs and polish the overall user experience. Testing is completely open for **Android**, **iOS/iPadOS**, or both.
 
