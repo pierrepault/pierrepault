@@ -26,7 +26,7 @@ Your hands-on feedback will help catch edge-case bugs and polish the overall use
 ### 🍏 iPhone & iPad Requirements & Steps
 1. **Device:** Must be running **iOS 15** or later.
 2. **Prerequisite:** Install [TestFlight](https://testflight.apple.com) from the App Store.
-3. **Download the App:** ⏳ *[netsign β testing](https://testflight.apple.com/join/MWKaRnSH)*
+3. **Download the App:**  *[netsign β testing](https://testflight.apple.com/join/MWKaRnSH)*
 
 ---
 
