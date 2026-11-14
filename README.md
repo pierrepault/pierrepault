@@ -66,7 +66,7 @@ When reporting an issue, copying and pasting this quick template helps us diagno
 | 🛡️ **Personal Data** | Strictly compliant with [GDPR](https://gdpr-info.eu). No personal data is mandatory to test. All user information is permanently wiped within 14 days of deleting your test account. |
 | ⏳ **Test Period** | Currently Open |
 | 👥 **Eligibility** | Anyone with a physical Android phone, iPhone, or iPad meeting the minimum OS requirements. |
-| 👥 **Compensation** | For Android beta testers: 15€ credit to use on the site if you belong to the first 10 testers which are registered by Google and allow me to unlock the live release on Google Play. Google requires the following: *Conduct your closed beta test with at least 12 testers for at least 14 days*. |
+| 💵 **Compensation** | For Android beta testers: 15€ credit to use on the site if you belong to the first 10 testers which are registered by Google and allow me to unlock the live release on Google Play. Google requires the following: *Conduct your closed beta test with at least 12 testers for at least 14 days*. |
 | 📄 **Privacy Information** | [privacy policy](https://netsign.io/legal/privacy). |
 | ❓ **Support & Questions** | Reach out via our **[Contact Form](https://netsign.io/contact)** or drop a line to **netsign-android-closed-testing@googlegroups.com**. |
 
