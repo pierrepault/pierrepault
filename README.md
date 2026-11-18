@@ -67,7 +67,7 @@ When reporting an issue, copying and pasting this quick template helps us diagno
 | :--- | :--- |
 | 🛡️ **Personal Data** | Strictly compliant with [GDPR](https://gdpr-info.eu). No personal data is mandatory to test. All user information is permanently wiped within 14 days of deleting your test account. |
 | ⏳ **Test Period** | Currently Open |
-| 👥 **Eligibility** | Anyone with a physical Android phone, iPhone, or iPad meeting the minimum OS requirements. |
+| 👥 **Eligibility** | Anyone with a physical Android phone, iPhone, or iPad meeting the minimum OS requirements. For information, Google requires the following to enable the release on Google Play: *Conduct your closed beta test with at least 12 testers for at least 14 days*. |
 | 📄 **Privacy Information** | [privacy policy](https://netsign.io/legal/privacy). |
 | ❓ **Support & Questions** | Reach out via our **[Contact Form](https://netsign.io/contact)** or drop a line to **netsign-android-closed-testing@googlegroups.com**. |
 
