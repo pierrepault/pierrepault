@@ -14,6 +14,8 @@ I am looking for beta testers to try **Netsign** before its public release! The 
 
 Your hands-on feedback will help catch edge-case bugs and polish the overall user experience. Testing is completely open for **Android**, **iOS/iPadOS**, or both.
 
+It should not take you more than a few minutes every couple of days…
+
 ---
 
 ## 📲 How to Join the Test
